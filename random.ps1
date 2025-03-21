@@ -1,3 +1,4 @@
+# translated by ai
 $wordList = @("GNUMAN", "GENTOO", "GCC", "Larry the cow", "PS3", "LLVM", "GCC", "CLang", "Portage", "Emerge", "Gotta catch em all", "Chicken boob", "Beetroot", "Booze", "Vape", "Linux", "Windows", "macOS", "Gentoo", "Arch", "Wake Up!")
 
 while ($true) {
